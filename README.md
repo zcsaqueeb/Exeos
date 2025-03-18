@@ -1,3 +1,5 @@
+https://app.exeos.network?referralCode=REFJ8XQQFP
+
 # Exeos Auto Bot
 
 Automated bot for ExeOS network to manage extension connections and liveness checks. This tool helps users maintain their connection to the ExeOS network and maximize rewards.
@@ -91,12 +93,3 @@ This tool is provided for educational purposes only. Use at your own risk.
 ## License
 
 MIT License
-
-## Support
-
-For support, join our community:
-- [Telegram](https://t.me/AirdropInsiderID)
-
----
-
-Created by [Airdrop Insiders](https://github.com/airdropinsiders)
